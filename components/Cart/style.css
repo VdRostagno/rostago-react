@@ -1,0 +1,25 @@
+#ListaCompra{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items:center;
+    background-color: antiquewhite;
+    padding: 2vh;
+}
+#ListaCompraDatos{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+}
+#ListaCompraDatosDetalles{
+    padding: 2vh;
+}
+#imagenLista{
+    height:15vh;
+}
+#ListaBorrar{
+    height:5vh;
+    width: 7vw;
+
+    background-color:rgb(252, 50, 50)
+}
